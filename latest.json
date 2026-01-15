@@ -1,8 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "…",
-  "pub_date": "2026-01-14T12:00:00Z",
+  "version": "0.1.1",
+  "notes": "Teste de update",
+  "pub_date": "2026-01-15T00:00:00Z",
   "platforms": {
-    "windows-x86_64": { "url": "...", "signature": "..." }
+    "windows-x86_64": { 
+        "url": "https://github.com/asgartth/huginn-versions/releases/latest/download/lol-analytics-app_0.1.1_x64_en-US.msi", 
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZVNUVUNJbG9JNUJuRTExSGd5SDRodjR5WnlwcmR1Yk93Q0c0REpvUjR2RXdRUGhQNkpZd2t6ZVZad1B1RXZVUnNRbG9LQmZtVkdGR04xUVEwMWwwWnNnZ0lDMkRNamd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NDUwNjE2CWZpbGU6bG9sLWFuYWx5dGljcy1hcHBfMC4xLjFfeDY0X2VuLVVTLm1zaQpaN2E2R1hZR25JOFNOdTdhWU5Qckt4UDVHbThTaExTd2g3dFJjb0hzWE9rbmUxTmtFelErNmRQYjJnQ2IrWmtUNXF5T0ZJVGxVZ1E2a1NDR2t0QUdBQT09Cg==" 
+    }
   }
 }
